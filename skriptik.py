@@ -53,14 +53,14 @@ def main():
 
 # print script info			
 def About():
-    print('#----------------------------------------------------------------------------#')
-    print('# Script Name : Skriptikv0.1                                        		#')
-    print('# Author      : Abano Drazhi                                       		#')
-    print('# Mail        : albano.drazhi@cybersecurity.maine.edu                           		#')
-    print('# WebPage     : github.com/albtop                          #')
-    print('# Usage       : At own risk                  		#')
-    print('# Requirements: Python 2.7                                             		#')
-    print('#----------------------------------------------------------------------------#\n')
+    print('#-----------------------------------------------------#')
+    print('# Script Name : Skriptikv0.1                          #')
+    print('# Author      : Abano Drazhi                          #')
+    print('# Mail        : albano.drazhi@cybersecurity.maine.edu #')
+    print('# WebPage     : github.com/albtop                     #')
+    print('# Usage       : At own risk                  	     #')
+    print('# Requirements: Python 2.7                            #')
+    print('#---------------------------------------------------#\n')
 
 # Checking the platform
 def ClearCLI(): 
