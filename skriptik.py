@@ -58,7 +58,7 @@ def About():
     print('# Author      : Abano Drazhi                          #')
     print('# Mail        : albano.drazhi@cybersecurity.maine.edu #')
     print('# WebPage     : github.com/albtop                     #')
-    print('# Usage       : At own risk                  	     #')
+    print('# Usage       : At own risk                  	   #')
     print('# Requirements: Python 2.7                            #')
     print('#---------------------------------------------------#\n')
 
